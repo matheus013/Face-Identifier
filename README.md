@@ -1,0 +1,2 @@
+# Face-Identifier
+Qt + OpenCV
